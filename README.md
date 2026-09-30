@@ -16,18 +16,12 @@
 Estoy desarrollando proyectos que combinan finanzas,
 automatización y análisis de datos.
 
-┌─────────────┐
-│             │
-│     🟩      │
-│    EXCEL    │
-│             │
-│    Excel    │
-└─────────────┘
-
-┌─────────────┐
-│             │
-│     📊      │
-│  POWER BI   │
-│             │
-│  Power BI   │
-└─────────────┘
+assets/
+   excel.svg
+   powerbi.svg
+   sql.svg
+   python.svg
+   tableau.svg
+   r.svg
+   ia.svg
+   erp.svg
