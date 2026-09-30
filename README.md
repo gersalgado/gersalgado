@@ -1,3 +1,5 @@
+# Hola, soy Germán 👋
+## Hola, soy Germán 👋
 ### Hola, soy Germán 👋
 
 #🎓 Ingeniería en Administración de Empresas | Finanzas
