@@ -8,5 +8,4 @@
 
 ## Actualmente
 
-Estoy desarrollando proyectos que combinan finanzas,
-automatización y análisis de datos.
+En una formación de 3 diplomados: Análisis de datos con Python y SQL | Planificación Financiera | Análisis Financiero. Para así potenciar proyectos de finanzas, datos y automatización.
