@@ -16,27 +16,6 @@
 Estoy desarrollando proyectos que combinan finanzas,
 automatización y análisis de datos.
 
-<svg width="220" height="90"
-     xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="218"
-        height="88"
-        rx="14"
-        fill="#0d1117"
-        stroke="#30363d"/>
-
-  <text x="110"
-        y="52"
-        fill="white"
-        text-anchor="middle"
-        font-size="18">
-    Excel
-  </text>
-
-</svg>
-
-
-
 
 <h2>🛠️ Tecnologías y herramientas</h2>
 
