@@ -27,5 +27,5 @@ automatización y análisis de datos.
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sappp&logoColor=white">
+  <img src="https://img.shields.io/badge/Sappp-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
 </p>
